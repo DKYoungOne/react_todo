@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dkyoungone.github.io/react_todo/static/css/main.012bcaa7.css",
-    "main.js": "/dkyoungone.github.io/react_todo/static/js/main.084240b8.js",
-    "static/js/787.2843ca88.chunk.js": "/dkyoungone.github.io/react_todo/static/js/787.2843ca88.chunk.js",
-    "index.html": "/dkyoungone.github.io/react_todo/index.html",
-    "main.012bcaa7.css.map": "/dkyoungone.github.io/react_todo/static/css/main.012bcaa7.css.map",
-    "main.084240b8.js.map": "/dkyoungone.github.io/react_todo/static/js/main.084240b8.js.map",
-    "787.2843ca88.chunk.js.map": "/dkyoungone.github.io/react_todo/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/react_todo/static/css/main.012bcaa7.css",
+    "main.js": "/react_todo/static/js/main.0db9732d.js",
+    "static/js/787.2843ca88.chunk.js": "/react_todo/static/js/787.2843ca88.chunk.js",
+    "index.html": "/react_todo/index.html",
+    "main.012bcaa7.css.map": "/react_todo/static/css/main.012bcaa7.css.map",
+    "main.0db9732d.js.map": "/react_todo/static/js/main.0db9732d.js.map",
+    "787.2843ca88.chunk.js.map": "/react_todo/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.012bcaa7.css",
-    "static/js/main.084240b8.js"
+    "static/js/main.0db9732d.js"
   ]
 }
